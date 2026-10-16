@@ -21,6 +21,7 @@
 - **WHEE:LINK** (2026) — 전동휠체어 부착형 교통안전 단말, 2026 ICT·SW 여성 창업공모전 출품
   - AI 기반 위험 판단 로직 기획, 서비스 구조·사용자 시나리오 설계, 프로젝트 운영
 - **맘편하게 (Mompeace)** (2026) — 임산부를 위한 식품 안전 관리 앱 기획·개발 · [Repo](https://github.com/go-butter/mompeace)
+- **누구예요?** — 치매 환자를 위한 얼굴인식 기반 가족 안내 및 지식 기반 응답 생성  · [Repo](https://github.com/go-butter/memory_on)
 
 ## 🏆 Awards
 
