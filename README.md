@@ -8,8 +8,6 @@
   - 사용자 문제를 해결하는 AI 서비스 기획·개발
 - **IoT / Embedded**
   - Raspberry Pi, 센서 연동
-- **Assistive Technology**
-  - 이동약자를 위한 AI·IoT 안전 기술
 
 ## 🎓 Education
 
