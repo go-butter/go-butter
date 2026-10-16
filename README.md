@@ -28,7 +28,7 @@
 ## ⚡ Community Activities
 
 - 교내 IT 동아리 기획부 팀장
-- IoT·AI 트랙 스터디 운영 (Raspberry Pi 5)
+- IoT·AI 트랙 스터디 총괄 운영
 ## 📫 Contacts
 
 - Email: gobitterbutter@gmail.com
